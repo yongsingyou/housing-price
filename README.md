@@ -1,2 +1,3 @@
 # housing-price
-predict housing price with advanced regression
+predict housing price with regression.
+use Lasso and Ridge to identify important features.
